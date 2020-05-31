@@ -1,0 +1,2 @@
+# weiredwalk-codechef-
+codechef(weiredwalk)
